@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.github</groupId>
-	<artifactId>github-analytics-stub-runner-boot-classpath-stubs</artifactId>
+	<artifactId>github-analytics-stub-runner-boot-no-eureka-classpath-stubs</artifactId>
 	<version>0.0.1.M1</version>
 	<packaging>jar</packaging>
 
